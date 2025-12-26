@@ -321,3 +321,5 @@ Scale up gradually
 Happy Emailing! 🚀
 
 Last Updated: Version 2.0 | Windows Executable | Professional Edition
+<img width="365" height="290" alt="Screenshot 2025-12-22 225517" src="https://github.com/user-attachments/assets/01551797-c4d6-4aa8-ae04-8779a2195c62" />
+
